@@ -177,4 +177,6 @@ videoTitle = trim(videoTitle);
 
 ## HTTP - get/request 实现评论的提交
 
+代码地址：node1-imooc/HTTP/comment.js
+需要模拟一些数据，就没有具体写
 <img src="./HTTP-get.png" alt="HTTP-get/request">
